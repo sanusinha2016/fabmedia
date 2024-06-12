@@ -1,4 +1,6 @@
-# gambling
+# Fabulous Media Project 
+# To run  the App on andriod emulator
+flutter run
 
 A new Flutter project.
 
